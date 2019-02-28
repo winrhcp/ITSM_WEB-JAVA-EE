@@ -1,6 +1,6 @@
 # ITSM_WEB-JAVA-EE
 ITSM WEB PORTAL Project
-- Ticket
+- Ticket management
 - Search Device
 - Inventory
 
